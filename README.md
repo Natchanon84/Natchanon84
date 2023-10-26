@@ -5,7 +5,7 @@
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=html,css,javascript&includeNames=true&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
 
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?software=windows,vscode&theme=nautilus&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
+
 
 
 
