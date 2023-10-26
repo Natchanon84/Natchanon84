@@ -1,7 +1,16 @@
-### Hi there 👋
+### Hi there,I'am <a href="">Natchanon Phomuang</a> 👋
 
-<!--
-**Natchanon84/Natchanon84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Natchanon84&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/Jurredr/github-widgetboxnautilus)
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=html,css,javascript&includeNames=true&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
+
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?software=windows,vscode&theme=nautilus&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
+
+
+
+
+<!--**Natchanon84/Natchanon84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -12,5 +21,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... --!>
